@@ -9,7 +9,7 @@ Proyecto desarrollado como proyecto para aprender lógica en JavaScript y flujo 
 ## 🚀 Demo
 
 🔗 Ver proyecto en vivo:  
-https://hdmacias.github.io/Paleta-de-Colores/
+https://hdmacias.github.io/ProyectoM1_HernanMacias/
 
 ---
 
@@ -137,7 +137,7 @@ La página se actualiza automáticamente.
 # 📂 Estructura del proyecto
 
 ```
-Paleta-de-Colores/
+ProyectoM1_HernanMacias
 │
 ├── index.html
 ├── Css/
