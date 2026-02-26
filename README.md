@@ -32,21 +32,36 @@ En el primer selector puedes elegir cuántos colores quieres generar:
 - 8
 - 9
 
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 092053.png>)
+
 ## 🎨 2. Seleccionar formato de color
 En el segundo selector puedes elegir el formato:
 - RGB
 - HSL
 
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 092116.png>)
+
 ## 🔄 3. Generar colores
 Presiona el botón **"Generar Paleta"** para crear colores aleatorios.
 
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 092232.png>)
+
 ## 📋 4. Copiar color
 Haz clic sobre cualquier color generado para copiar automáticamente su código al portapapeles.
+
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 093549.png>) ![alt text](<Captura de pantalla 2026-02-26 093606.png>)
 
 ## 🔒 5. Bloquear un color
 Haz clic en el icono 🔓 para bloquear una paleta.
 Cuando esté bloqueada 🔒, ese color no cambiará al generar una nueva paleta.
 
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 092243.png>)
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 092504.png>)
+
+## 🎛 🎨 6. Seleccionar cantidad de paletas
+Si no seleccionas ninguno de los dos selectores te sale un mensaje, recordando que debes seleccionar 
+
+![alt text](<Imagenes/Captura de pantalla 2026-02-26 092258.png>)
 ---
 
 # 🧠 Manual Técnico (Decisiones técnicas)
